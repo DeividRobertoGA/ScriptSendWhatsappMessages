@@ -4,7 +4,7 @@ Código para enviar o Script inteiro de Shrek para seus amigos ou grupos do What
 
 ## Utilização
 
-Abra [script.js](https://github.com/DeividRobertoGA/scriptwhatsapp/blob/main/script.js)
+Abra [script.js](https://github.com/DeividRobertoGA/ScriptSendWhatsappMessages/blob/main/script.js)
 
 Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
